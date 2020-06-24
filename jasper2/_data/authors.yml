@@ -1,0 +1,21 @@
+ghost:
+  username: ghost
+  name: Ghost
+  url_full: http://jekyller.github.io/jasper2/
+  url: jekyller.github.io/jasper2
+  bio: The professional publishing platform
+  picture: assets/images/ghost.png
+  facebook: ghost
+  twitter: tryghost
+  cover: False
+mhagiwara:
+  username: mhagiwara
+  name: Masato Hagiwara
+  location: Seattle, WA, USA
+  url_full: http://masatohagiwara.net/
+  url: masatohagiwara.net
+  bio: Masato is an independent NLP/ML Engineer and Researcher at Octanove Labs.
+  picture: assets/images/mhagiwara.jpg
+  facebook: False
+  twitter: mhagiwara
+  cover: assets/images/books.jpg
